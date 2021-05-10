@@ -6,7 +6,7 @@ The database logic is based on H2 and is not saved between sessions (after closi
 
 Starting the application:
 1. locate the root folder of the application (personApp)
-2. from command line run the following command: java -jar target\personApp-0.0.1-SNAPSHOT
+2. from command line run the following command: java -jar personApp-0.0.1-SNAPSHOT.jar
 3. ctrl + c to terminate and close the application
 
 
